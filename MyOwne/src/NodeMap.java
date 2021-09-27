@@ -3,9 +3,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
-import com.jiuqi.np.org.impl.entity.OrgTypeImpl;
-import com.jiuqi.np.org.impl.util.OrgConst;
-
 public class NodeMap {
 	List<Node> nodes = new ArrayList<>();
 
